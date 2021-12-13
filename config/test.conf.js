@@ -7,4 +7,4 @@ module.exports = merge(baseConfig, {
   // use inline sourcemap for karma-sourcemap-loader
   devtool: '#inline-source-map'
 })
-
+BYE.....
